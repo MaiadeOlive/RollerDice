@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RollerDice</string>
+    <string name="jogar">Jogar</string>
+    <string name="play">play</string>
+    <string name="dado_de_6_lados">Dado de 6 lados</string>
+    <string name="dado_de_3_lados">Dado de 3 lados</string>
+    <string name="dado_de_12_lados">dado de 12 lados</string>
+</resources>
